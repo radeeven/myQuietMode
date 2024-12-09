@@ -5,4 +5,4 @@ My now newer Acer Nitro 5 AN515-57 ramps up the fan when 70 degrees are reached,
 <h1>How to use</h1>
 Extract the files into a folder, install <a href="https://www.autohotkey.com">AutoHotkey</a>, and run the myQuietMode.ahk file. Now you can press ctrl+shift+q to toggle between two modes: STFU-mode and regular mode. I recommend putting a shortcut to the myQuietMode.ahk file in your windows startup folder.
 <h1>What it does</h1>
-The two modes change some windows power settings. In STFU-mode the Maximum Processor State is set to 20% and the System Cooling Policy is set to Passive. In regular-mode the Maximum Processor State is stet to 100% and the System Cooling Policy is set to Active. You can change the values of these two modes by editing stfu.bat and regular.bat.
+The two modes change some windows power settings. In STFU-mode the Maximum Processor State is set to 7% and the System Cooling Policy is set to Passive. In regular-mode the Maximum Processor State is stet to 100% and the System Cooling Policy is set to Active. You can change the values of these two modes by editing stfu.bat and regular.bat.
